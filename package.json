@@ -1,0 +1,27 @@
+{
+  "name": "projeto-finalhatari",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BiaSiriani/projeto-finalhatari.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BiaSiriani/projeto-finalhatari/issues"
+  },
+  "homepage": "https://github.com/BiaSiriani/projeto-finalhatari#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "body-parser": "^2.2.0",
+    "express": "^5.1.0",
+    "mysql2": "^3.14.1",
+    "nodemon": "^3.1.10"
+  },
+  "description": ""
+}
